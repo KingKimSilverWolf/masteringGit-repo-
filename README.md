@@ -1,2 +1,3 @@
-# masteringGit-repo-
+# Git Mastery
+
 Repository for mastering GitHub
